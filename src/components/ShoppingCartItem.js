@@ -1,5 +1,4 @@
 import React from 'react';
-import { ProductContext } from '../contexts/ProductContext';
 
 const Item = props => {
 	console.log(props)
